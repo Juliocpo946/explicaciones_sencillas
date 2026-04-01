@@ -1,0 +1,44 @@
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Entornos virtuales
+venv/
+.env/
+.venv/
+env/
+ENV/
+
+# Archivos de configuración sensibles
+.env
+.env.*
+
+# Logs
+*.log
+
+# Archivos de sistema
+.DS_Store
+Thumbs.db
+
+# Archivos de editor/IDE
+.vscode/
+.idea/
+
+# Archivos de pruebas / coverage
+.coverage
+htmlcov/
+.pytest_cache/
+
+# Archivos de build
+build/
+dist/
+*.egg-info/
+
+# SQLite (si usas DB local)
+*.db
+*.sqlite3
+
+# Archivos temporales
+*.swp
+*.swo
